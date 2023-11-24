@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +23,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-24T10:35:12.072Z",
+      "notes": "Watched the greatest Estadio Santiago Bernabeu",
+      "position": {
+        "lat": "40.453156041794436",
+        "lng": "-3.6885899305343632"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-24T10:48:45.803Z",
+      "notes": "Wembley stadium",
+      "position": {
+        "lat": "51.55582173530034",
+        "lng": "-0.27960419654846197"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Liverpool",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-24T10:53:52.325Z",
+      "notes": "Liverpool Ka ANFILED ",
+      "position": {
+        "lat": "53.430890208488556",
+        "lng": "-2.9606491327285767"
+      },
+      "id": 98443200
     }
   ]
 }
